@@ -24,3 +24,5 @@ LensHolder - Pushfit mount between the front of the enclosure and Wideagle or Fi
 Nut - An M18 Hex nut to help fix the enclosure to your controller. Print 2 of these.
 
 Tested with printing on Elegoo Neptune 3 Pro and Bambu A1 Mini using 0.4 Nozzle and 0.2 Layer Height.
+
+NOTE: I AM NOT CURRENTLY PROVIDING THE ORIGINAL CAD FILES.
