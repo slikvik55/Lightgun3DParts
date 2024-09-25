@@ -1,10 +1,10 @@
-3D Printable Parts for use with GUN4IR and OpenFire
+# H2 3D Printable Parts for use with GUN4IR and OpenFire
 
-Wii Camera Enclosure
+## H2 Wii Camera Enclosure
 
-This enscloslure fits a camera from a salvaged Wiimote and eatnooM's brilliant little PCB board: https://github.com/eatnooM/pixart-sensor-adapter
+This enclosure fits a camera from a salvaged Wiimote and eatnooM's brilliant little PCB board: https://github.com/eatnooM/pixart-sensor-adapter
 
-Features:
+### H3 Features:
 
 Same dimensions as the DFRobot version but a bit shorter.
 Designed to work with eatnooM's PCB.
@@ -14,7 +14,7 @@ IR filter needs to be glued to the front but I've left a gap between the camera 
 Parts all designed in a way that they can be printed without supports or 3D printing unfriendly angles.
 Everything should snap in place.
 
-Parts:
+### H3 Parts:
 
 Barrel - This is the M18 Threaded barrel with a slide mount inside for the PCB
 Bottom - The base of the enclosure with space to feed 4 x 28AWG wires. Should push-fit into the Barrel
